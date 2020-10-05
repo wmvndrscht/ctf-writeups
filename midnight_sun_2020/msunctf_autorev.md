@@ -1,13 +1,4 @@
-Title: Midnight Sun CTF finals 2020 - autorev writeup 
-Date: 2020-10-05 18:48
-Modified: 2020-10-05 18:48
-Category: blog
-Tags: ctf,  infosec
-Slug: msunctf_autorev
-Authors: Wim van der Schoot
-Summary: A writeup for the autorev ctf challenge at Midnight Sun CTF finals 2020.
-
-(i apologise for the horrible markdown code formatting here - working on changing this)
+# Midnight Sun CTF finals 2020 - autorev writeup 
 
 This challenge involved 'auto' reverse engineering 10 programs within a time limit.
 
