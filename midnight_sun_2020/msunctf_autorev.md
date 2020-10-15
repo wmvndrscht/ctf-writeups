@@ -1,6 +1,6 @@
 # Midnight Sun CTF finals 2020 - autorev writeup 
 
-This challenge involved 'auto' reverse engineering 10 programs within a time limit.
+This challenge involved 'auto' reverse engineering 10 programs within a time limit. It was a fun challenge and great to work with @Heysunk on this.
 
 Connecting to the challenge via netcat presented the user with the goal:
 ```
